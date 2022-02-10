@@ -1,0 +1,42 @@
+// Colors
+//---------------------------------
+// https://www.htmlcsscolor.com/hex/334482
+
+// Colors
+
+$color-default-black:             #000000;
+$color-black-russian:             #1C1C1D;
+$color-default-white:             #ffffff;
+$color-jade:                      #00B76C;
+$color-grey:                      #818181;
+$color-dim-gray:                  #6B6868;
+$color-dark-gray:                 #A6A6A6;
+$color-matterhorn:                #525151;
+$color-cinnabar:                  #E23E1A;
+$color-whisper:                   #EEEEEE;
+$color-light-grey:                #D7D7D7;
+$color-night-rider:               #333333;
+$color-ocean-green:	              #4A9B7A;
+$color-nobel:                     #959595;
+$color-tomato:                    #FF5656;
+
+$color-main: $color-jade;
+
+
+// Typography
+//---------------------------------
+
+$font-family--default:                     "Proxima Nova", "Arial", sans-serif;
+
+// Animation
+//---------------------------------
+
+$default-transition-settings:       0.3s ease 0s;
+$modal-transition-settings:         0.6s cubic-bezier(0.55, 0, 0.1, 1);
+
+// Viewports
+//---------------------------------
+
+$startWidth: 1920;
+$midWidth: 768;
+$endWidth: 320;
